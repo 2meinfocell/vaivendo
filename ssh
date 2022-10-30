@@ -30,7 +30,7 @@
 
     {
 "Name": "📱 TIM TODOS 📡 💙",
-"FLAG": "tim",
+      "FLAG": "tim",
       "Payload": "GET wss://duvidas.ampli.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "duvidas.ampli.com.br",
       "TlsIP": "duvidas.ampli.com.br",
